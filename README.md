@@ -1,4 +1,4 @@
-
+[Azure Developer Course](https://www.wiculty.com/microsoft-azure-developer-associate-certification-training-course)
 <div align="center">
 <h1><img width="30" src="https://madewithml.com/static/images/rounded_logo.png">&nbsp;<a href="https://madewithml.com/">Made With ML</a></h1>
 Applied ML · MLOps · Production
